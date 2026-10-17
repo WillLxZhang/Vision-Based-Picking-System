@@ -1,0 +1,70 @@
+{
+  "kind": "cylinder",
+  "predicted_kind": "cylinder",
+  "detected": true,
+  "grasped": true,
+  "sorted": true,
+  "failure": "",
+  "elapsed": 11.239999999999206,
+  "error_m": 0.0013405131690259534,
+  "states": [
+    [
+      "RESET",
+      0.1
+    ],
+    [
+      "CONVEY",
+      0.1
+    ],
+    [
+      "DETECT",
+      1.704
+    ],
+    [
+      "PREGRASP",
+      1.704
+    ],
+    [
+      "DESCEND",
+      2.468
+    ],
+    [
+      "CLOSE",
+      3.108
+    ],
+    [
+      "LIFT",
+      3.46
+    ],
+    [
+      "TRANSFER",
+      4.14
+    ],
+    [
+      "LOWER",
+      6.66
+    ],
+    [
+      "OPEN",
+      7.808
+    ],
+    [
+      "RETRACT",
+      8.06
+    ],
+    [
+      "VERIFY",
+      9.596
+    ],
+    [
+      "RETURN",
+      9.596
+    ]
+  ],
+  "final_xy": [
+    0.29845135589207117,
+    0.003104036897836405
+  ],
+  "max_object_angular_speed_rad_s": 0.6989819990181796,
+  "max_relative_orientation_deg": 3.588228803575842
+}

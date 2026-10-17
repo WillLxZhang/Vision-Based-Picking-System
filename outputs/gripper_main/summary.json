@@ -1,0 +1,47 @@
+{
+  "episodes": 90,
+  "recognition_accuracy": 1.0,
+  "grasp_success_rate": 1.0,
+  "sort_success_rate": 0.9666666666666667,
+  "position_mae_mm": 2.7517167569438015,
+  "mean_cycle_s": 10.846533333332584,
+  "mean_max_object_angular_speed_rad_s": 7.002986099926664,
+  "mean_max_relative_orientation_deg": 28.57394060619366,
+  "max_object_angular_speed_rad_s": 51.54575491956629,
+  "max_relative_orientation_deg": 179.6814005847506,
+  "class_counts": {
+    "cube": 30,
+    "cylinder": 30,
+    "prism": 30
+  },
+  "failures": {
+    "success": 87,
+    "outside_target_bin": 3
+  },
+  "confusion": {
+    "cube": {
+      "cube": 30,
+      "cylinder": 0,
+      "prism": 0,
+      "unknown": 0
+    },
+    "cylinder": {
+      "cube": 0,
+      "cylinder": 30,
+      "prism": 0,
+      "unknown": 0
+    },
+    "prism": {
+      "cube": 0,
+      "cylinder": 0,
+      "prism": 30,
+      "unknown": 0
+    }
+  },
+  "condition": {
+    "seed": 20260923,
+    "use_vision": true,
+    "belt_speed": 0.12,
+    "light_scale": 1.0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "kind": "prism",
+  "predicted_kind": "prism",
+  "detected": true,
+  "grasped": true,
+  "sorted": true,
+  "failure": "",
+  "elapsed": 11.071999999999225,
+  "error_m": 0.0038527278547488266,
+  "states": [
+    [
+      "RESET",
+      0.1
+    ],
+    [
+      "CONVEY",
+      0.1
+    ],
+    [
+      "DETECT",
+      1.704
+    ],
+    [
+      "PREGRASP",
+      1.704
+    ],
+    [
+      "DESCEND",
+      2.468
+    ],
+    [
+      "CLOSE",
+      3.176
+    ],
+    [
+      "LIFT",
+      3.528
+    ],
+    [
+      "TRANSFER",
+      4.264
+    ],
+    [
+      "LOWER",
+      7.148
+    ],
+    [
+      "OPEN",
+      8.204
+    ],
+    [
+      "RETRACT",
+      8.456
+    ],
+    [
+      "VERIFY",
+      9.864
+    ],
+    [
+      "RETURN",
+      9.864
+    ]
+  ],
+  "final_xy": [
+    0.2684904259597737,
+    0.2865088081770481
+  ],
+  "max_object_angular_speed_rad_s": 0.6929863042605924,
+  "max_relative_orientation_deg": 11.12699781514516
+}

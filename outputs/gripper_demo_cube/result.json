@@ -1,0 +1,70 @@
+{
+  "kind": "cube",
+  "predicted_kind": "cube",
+  "detected": true,
+  "grasped": true,
+  "sorted": true,
+  "failure": "",
+  "elapsed": 9.74799999999937,
+  "error_m": 0.001961402616289222,
+  "states": [
+    [
+      "RESET",
+      0.1
+    ],
+    [
+      "CONVEY",
+      0.1
+    ],
+    [
+      "DETECT",
+      1.704
+    ],
+    [
+      "PREGRASP",
+      1.704
+    ],
+    [
+      "DESCEND",
+      2.468
+    ],
+    [
+      "CLOSE",
+      3.108
+    ],
+    [
+      "LIFT",
+      3.46
+    ],
+    [
+      "TRANSFER",
+      4.14
+    ],
+    [
+      "LOWER",
+      5.836
+    ],
+    [
+      "OPEN",
+      6.88
+    ],
+    [
+      "RETRACT",
+      7.132
+    ],
+    [
+      "VERIFY",
+      8.54
+    ],
+    [
+      "RETURN",
+      8.54
+    ]
+  ],
+  "final_xy": [
+    0.2656435687909485,
+    -0.3029484804059407
+  ],
+  "max_object_angular_speed_rad_s": 0.7444213412272885,
+  "max_relative_orientation_deg": 44.33050405213502
+}

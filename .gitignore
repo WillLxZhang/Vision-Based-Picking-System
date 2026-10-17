@@ -1,0 +1,12 @@
+.deps/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+report/.build/
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.synctex.gz
+outputs/*_recheck/

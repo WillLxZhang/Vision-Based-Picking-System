@@ -1,0 +1,10 @@
+# Complete effective Python package versions observed on the verified Windows host.
+# Optional clean Python 3.10 install: python -m pip install --target .deps --no-cache-dir -r requirements-full.txt
+mujoco==3.11.0
+opencv-python==4.13.0.92
+numpy==2.2.6
+scipy==1.15.3
+matplotlib==3.10.9
+pillow==12.3.0
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
