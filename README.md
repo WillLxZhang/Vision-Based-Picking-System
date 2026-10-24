@@ -2,6 +2,14 @@
 
 本仓库包含双指夹爪版程序、Panda 模型、实验输出和 LaTeX 报告。
 
+## 抓取演示
+
+点击画面查看对应的 MP4。视频展示了识别、夹取和分类投放过程。
+
+| 立方体 | 圆柱体 | 三棱柱 |
+| :---: | :---: | :---: |
+| [![立方体抓取演示](outputs/gripper_demo_cube/transfer.png)](outputs/gripper_demo_cube/demo.mp4) | [![圆柱体抓取演示](outputs/gripper_demo_cylinder/transfer.png)](outputs/gripper_demo_cylinder/demo.mp4) | [![三棱柱抓取演示](outputs/gripper_demo_prism/transfer.png)](outputs/gripper_demo_prism/demo.mp4) |
+
 ## 报告
 
 报告源文件为 `report/report.tex`，导出稿为 `report/report.pdf`。实验数值集中在 `report/results.tex`，插图读取 `../outputs/gripper_*/`。保留现有目录结构，可用 XeLaTeX 或 Tectonic 编译。
